@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.amyezing.brewpos",
+        "sha256_cert_fingerprints": ["2B:37:FA:F9:A7:D4:ED:72:76:68:17:DC:FA:6A:D1:E5:71:32:B8:7C:53:CE:12:06:8A:2C:F8:F3:5B:C8:1C:AA"]
+      }
+    }]
